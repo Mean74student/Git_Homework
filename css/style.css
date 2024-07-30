@@ -1,0 +1,26 @@
+a*{
+    text-decoration: none;
+    display: flex;
+    /* padding: 10px;
+    margin: 10px; */
+    
+}
+img{
+    width: 100%;
+}
+h1{
+    background-color: black;
+    color:orange;
+    text-align: center;
+    padding: 10px;
+}
+#color{
+    background-color: yellow;
+    color: black;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+}
